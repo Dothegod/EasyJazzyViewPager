@@ -1,3 +1,23 @@
+EasyJazzyViewPager
+==============
+This is an easiler JazzyViewPager you do not need to write adapter repeatly.
+
+Just use function "addViewEasily" to add your views
+```java
+		mJazzy.addViewEasily(yourView);
+```
+
+Something More
+-------
+You can add a EasyJazzyViewPager in designer without error.
+
+You can change effect 
+```java
+		mJazzy.setTransitionEffect(effect);
+```
+that is works well.   
+
+
 JazzyViewPager
 ==============
 
