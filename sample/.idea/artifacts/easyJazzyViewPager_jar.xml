@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="easyJazzyViewPager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/easyJazzyViewPager_jar</output-path>
+    <root id="archive" name="easyJazzViewPager.jar">
+      <element id="module-output" name="easyJazzyViewPager" />
+    </root>
+  </artifact>
+</component>
